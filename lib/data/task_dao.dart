@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print, prefer_collection_literals
+
 import 'package:primeiro_projeto/components/task.dart';
 import 'package:primeiro_projeto/data/database.dart';
 import 'package:sqflite/sqflite.dart';
